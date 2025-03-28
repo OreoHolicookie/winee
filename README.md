@@ -1,8 +1,16 @@
+# Wine Management System
+
 ## How to Login
-Enter the following credentials for users first:
-**Email:** sapra.christinejoybsis2021@gmail.com  
-**Password:** Killuazoldyck13%
-Click **Login**
-and then to login the admin just enter the 
-http://localhost/wine/admin/login.php
-it will automatically login the admin after refresh
+
+### User Login:
+1. Open the website: [http://localhost/wine/](http://localhost/wine/)
+2. Enter the following credentials:
+   - **Email:** sapra.christinejoybsis2021@gmail.com  
+   - **Password:** Killuazoldyck13%
+3. Click **Login**.
+
+### Admin Login:
+1. Go to [http://localhost/wine/admin/login.php](http://localhost/wine/admin/login.php).
+2. Refresh the page, and it will automatically log in the admin.
+
+---
