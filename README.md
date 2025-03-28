@@ -17,7 +17,8 @@
 #Members:
 - **Sapra, Christine Joy D.**  
 - **Loyola, Liezle Anne B.**  
-- **Isit, Raiza Mae**  
+- **Isit, Raiza Mae**
+- **Febrero,Teresa A.**
 - **Guillermo, Aeron**  
 - **Genciana, Jerico**  
 - **Dionisio, Raphael Christian**  
