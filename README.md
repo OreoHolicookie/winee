@@ -14,3 +14,10 @@
 2. Refresh the page, and it will automatically log in the admin.
 
 ---
+Members:
+Sapra,Christine Joy D.
+Loyola,Liezle Anne B.
+Isit,Raiza Mae
+Guillermo,Aeron
+Genciana,Jerico
+Dionisio,Raphael Christian
